@@ -1,0 +1,31 @@
+round,model,name,content,seed,tokens,token_logprobs,token_ids,index
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Aardvark.,43,"['A', 'ard', 'v', 'ark', '.']","[-1.015625, -0.0004348755, -0.0005531311, 0.0, -3.046875]","[32, 569, 85, 847, 13]",0
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Kangaroo.,43,"['K', 'ang', 'aroo', '.', '<|eot_id|>']","[-0.55859375, -0.006713867, 0.0, -0.008605957, 0.0]","[42, 526, 76865, 13, 128009]",1
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Meerkat.,43,"['Me', 'erk', 'at', '.', '<|eot_id|>']","[-1.9140625, 0.0, 0.0, -0.0011672974, 0.0]","[7979, 17172, 266, 13, 128009]",2
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Cheetah.,43,"['C', 'heet', 'ah', '.', '<|eot_id|>']","[-2.0625, -0.00089645386, 0.0, -0.0005531311, 0.0]","[34, 3759, 1494, 13, 128009]",3
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Jaguar.,43,"['J', 'ag', 'uar', '.', '<|eot_id|>']","[-2.1875, 0.0, 0.0, -0.0011672974, 0.0]","[41, 351, 19253, 13, 128009]",4
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Puma.,43,"['P', 'uma', '.', '<|eot_id|>']","[-1.0859375, -0.11767578, -0.0019302368, 0.0]","[47, 13722, 13, 128009]",5
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Wolverine.,43,"['W', 'olver', 'ine', '.', '<|eot_id|>']","[-4.96875, -0.38671875, 0.0, -0.0004310608, 0.0]","[54, 8080, 483, 13, 128009]",6
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Mongoose.,43,"['M', 'ongoose', '.', '<|eot_id|>']","[-0.83984375, -0.001449585, -0.00033569336, 0.0]","[44, 11109, 13, 128009]",7
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Tapir.,43,"['Tap', 'ir', '.', '<|eot_id|>']","[-2.390625, 0.0, -0.00012302399, 0.0]","[24821, 404, 13, 128009]",8
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Numbat.,43,"['N', 'umb', 'at', '.', '<|eot_id|>']","[-1.6484375, -0.018188477, 0.0, -0.006713867, 0.0]","[45, 3635, 266, 13, 128009]",9
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Okapi,43,"['Ok', 'api', '<|eot_id|>']","[-0.5390625, 0.0, -5.25]","[11839, 2113, 128009]",10
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Quokka.,43,"['Qu', 'ok', 'ka', '.', '<|eot_id|>']","[-0.39257812, -0.0015258789, 0.0, -0.018188477, 0.0]","[2232, 564, 4657, 13, 128009]",11
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Fennec.,43,"['F', 'enn', 'ec', '.', '<|eot_id|>']","[-0.30078125, -0.011169434, 0.0, -0.018188477, 0.0]","[37, 2734, 762, 13, 128009]",12
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Axolotl.,43,"['Ax', 'ol', 'ot', 'l', '.']","[-1.40625, 0.0, 0.0, 0.0, -0.018188477]","[38942, 337, 354, 75, 13]",13
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Tarsier.,43,"['T', 'ars', 'ier', '.', '<|eot_id|>']","[-0.2734375, -0.030151367, 0.0, -0.005218506, 0.0]","[51, 1590, 1291, 13, 128009]",14
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Sugar Glider.,43,"['Sugar', ' Gl', 'ider', '.', '<|eot_id|>']","[-2.640625, -0.48242188, 0.0, -0.12695312, 0.0]","[84514, 8444, 1814, 13, 128009]",15
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Ostrich.,43,"['O', 'str', 'ich', '.', '<|eot_id|>']","[-1.5703125, -1.7265625, 0.0, -0.0005531311, 0.0]","[46, 496, 718, 13, 128009]",16
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Emu.,43,"['Em', 'u', '.', '<|eot_id|>']","[-1.2265625, -0.00026130676, -0.011047363, 0.0]","[2321, 84, 13, 128009]",17
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Cassowary.,43,"['C', 'ass', 'ow', 'ary', '.']","[-0.9765625, -0.030883789, 0.0, 0.0, -0.0040893555]","[34, 395, 363, 661, 13]",18
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Kiwi,43,"['Ki', 'wi', '<|eot_id|>']","[-0.21289062, 0.0, -4.25]","[73672, 17043, 128009]",19
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Wallaby.,43,"['Wall', 'aby', '.', '<|eot_id|>']","[-1.2734375, -1.66893e-05, -0.014160156, 0.0]","[33697, 6243, 13, 128009]",20
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Dingo.,43,"['D', 'ingo', '.', '<|eot_id|>']","[-2.25, -0.91015625, -0.038085938, 0.0]","[35, 29008, 13, 128009]",21
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Toucan.,43,"['T', 'ou', 'can', '.', '<|eot_id|>']","[-1.3046875, -0.025756836, 0.0, -0.0019302368, 0.0]","[51, 283, 4919, 13, 128009]",22
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Chameleon.,43,"['Ch', 'ameleon', '.', '<|eot_id|>']","[-0.9609375, -0.5546875, -0.008605957, 0.0]","[1163, 97911, 13, 128009]",23
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Gecko.,43,"['Ge', 'cko', '.', '<|eot_id|>']","[-1.546875, -3.1471252e-05, -0.005218506, 0.0]","[9688, 32563, 13, 128009]",24
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Iguana.,43,"['I', 'gu', 'ana', '.', '<|eot_id|>']","[-1.1796875, -0.0013504028, 0.0, -0.005218506, 0.0]","[40, 8890, 3444, 13, 128009]",25
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Crocodile.,43,"['Cro', 'codile', '.', '<|eot_id|>']","[-2.15625, -2.3841858e-07, -0.00026130676, 0.0]","[96141, 83774, 13, 128009]",26
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Alligator.,43,"['All', 'igator', '.', '<|eot_id|>']","[-1.46875, 0.0, -0.0015029907, 0.0]","[2460, 58182, 13, 128009]",27
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,a,Komodo.,43,"['Kom', 'odo', '.', '<|eot_id|>']","[-0.546875, 0.0, -0.006713867, 0.0]","[83143, 6132, 13, 128009]",28
+1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,b,Narwhal.,43,"['N', 'ar', 'wh', 'al', '.']","[-0.90625, -1.7166138e-05, -1.7881393e-06, 0.0, -0.0040893555]","[45, 277, 1336, 278, 13]",29
